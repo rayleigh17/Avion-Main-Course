@@ -9,4 +9,4 @@ Main course activities:
   4. <a href="https://rayleigh17.github.io/Avion-Main-Course/ChessBoardActivity/index.html" target="_blank">ChessBoardActivity</a>
 
 Author:
-<h3><strong>Jerson Nuñal</strong</h3>
+<h3><strong>Jerson Nuñal</strong></h3>
