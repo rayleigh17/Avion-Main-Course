@@ -1,6 +1,6 @@
 # Avion-Main-Course
 
- <h2><a href="https://rayleigh17.github.io/Avion-Main-Course/" target="blank">Main Page</a><h2>
+ <h2><a href="https://rayleigh17.github.io/Avion-Main-Course/" target="blank">Main Page</a></h2>
 
 Main course activities:
   1. <a href="https://rayleigh17.github.io/Avion-Main-Course/Assignment1/index.html" target="_blank">Assignment1</a>
